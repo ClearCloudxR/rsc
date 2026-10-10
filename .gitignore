@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 运行时产生的日志与崩溃转储
+*.log
+hs_err_pid*.log
+replay_pid*.log
+*.heapdump
